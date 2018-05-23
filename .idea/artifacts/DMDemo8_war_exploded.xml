@@ -1,0 +1,47 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DMDemo8:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/DMDemo8_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="DMDemo8/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="DMDemo8" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/weka.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-io-2.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/aopalliance-1.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-logging-1.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-fileupload-1.3.3.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-tx-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-aop-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-jms-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-orm-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-oxm-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-web-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-core-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-jdbc-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-test-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-beans-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-webmvc-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-aspects-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-context-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/mysql-connector-java-5.1.45-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-messaging-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-websocket-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-expression-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-instrument-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-webmvc-portlet-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-context-support-4.3.16.RELEASE.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/src/jar/spring-instrument-tomcat-4.3.16.RELEASE.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
